@@ -180,23 +180,41 @@ B C 3
 C D 1
 
 C E 5
+
 D E 8
+
 E I 5
+
 E J 5
+
 F G 1
+
 G I 3
+
 I J 3
+
 F H 7
+
 I H 2
+
 A 10
+
 B 8
+
 C 5
+
 D 7
+
 E 3
+
 F 6
+
 G 5
+
 H 3
+
 I 1
+
 J 0
 
 ## Sample Output
@@ -209,18 +227,31 @@ Path found: ['A', 'F', 'G', 'I', 'J']
 ## Sample Input
 
 6 6
+
 A B 2
+
 B C 1
+
 A E 3
+
 B G 9
+
 E D 6
+
 D G 1
+
 A 11
+
 B 6
+
 C 99
+
 E 7
+
 D 1
+
 G 0
+
 
 ## Sample Output
 
