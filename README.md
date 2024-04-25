@@ -168,11 +168,17 @@ aStarAlgo('S', 'G')
 ## Sample Input
 
 10 14
+
 A B 6
+
 A F 3
+
 B D 2
+
 B C 3
+
 C D 1
+
 C E 5
 D E 8
 E I 5
